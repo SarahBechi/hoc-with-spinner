@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hoc-with-spinner/static/css/main.0fa7eb6e.chunk.css",
+    "main.js": "/hoc-with-spinner/static/js/main.f92176fa.chunk.js",
+    "main.js.map": "/hoc-with-spinner/static/js/main.f92176fa.chunk.js.map",
+    "runtime-main.js": "/hoc-with-spinner/static/js/runtime-main.89f8e273.js",
+    "runtime-main.js.map": "/hoc-with-spinner/static/js/runtime-main.89f8e273.js.map",
+    "static/js/2.8020639b.chunk.js": "/hoc-with-spinner/static/js/2.8020639b.chunk.js",
+    "static/js/2.8020639b.chunk.js.map": "/hoc-with-spinner/static/js/2.8020639b.chunk.js.map",
+    "index.html": "/hoc-with-spinner/index.html",
+    "precache-manifest.8902fc7e82af777633d1c2c24cbe1124.js": "/hoc-with-spinner/precache-manifest.8902fc7e82af777633d1c2c24cbe1124.js",
+    "service-worker.js": "/hoc-with-spinner/service-worker.js",
+    "static/css/main.0fa7eb6e.chunk.css.map": "/hoc-with-spinner/static/css/main.0fa7eb6e.chunk.css.map",
+    "static/js/2.8020639b.chunk.js.LICENSE.txt": "/hoc-with-spinner/static/js/2.8020639b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f8e273.js",
+    "static/js/2.8020639b.chunk.js",
+    "static/css/main.0fa7eb6e.chunk.css",
+    "static/js/main.f92176fa.chunk.js"
+  ]
+}
